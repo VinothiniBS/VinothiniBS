@@ -1,4 +1,4 @@
-# Vinothini Balasubramani - Student
+# Vinothini Balasubramani
 
 ## Summary
 Student pursuing a Masters in Data and Computational Science at University College Dublin. 

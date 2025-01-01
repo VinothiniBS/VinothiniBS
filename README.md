@@ -4,7 +4,7 @@
 ---
 
 ## **Summary**  
-💡 Data Analyst with 5+ years of experience in data analytics and integration, leveraging skills in Python, SQL, and ETL to deliver data-driven solutions. Passionate about continuous learning and adapting to emerging technologies!
+Data Analyst with 5+ years of experience in data analytics and integration, leveraging skills in Python, SQL, and ETL to deliver data-driven solutions. Passionate about continuous learning and adapting to emerging technologies!
 
 ---
 

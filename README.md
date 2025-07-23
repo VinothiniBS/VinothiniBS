@@ -1,68 +1,83 @@
-# **Vinothini Balasubramani**  
-💼 **Data Analyst** | 📊 **Data Integration Specialist** | 🌍 **Dublin, Ireland**  
+# 👋 Hi, I'm Vinothini Balasubramani  
+💼 **Data Analyst** | 🔗 **Data Integration Specialist** | 🌍 **Dublin, Ireland**
+
+🎯 5+ years of experience transforming raw data into business insights and automation through analytics, integration, and dashboarding.
 
 ---
 
-## **Summary**  
-Data Analyst with 5+ years of experience in data analytics and integration, leveraging skills in Python, SQL, and ETL to deliver data-driven solutions. Passionate about continuous learning and adapting to emerging technologies!
+## 🧠 Summary  
+Data Analyst with a strong background in analytics, SAP integrations, and development. Skilled in Python, SQL, and Power BI, I thrive on solving complex problems and delivering clean, data-driven solutions. Currently open to opportunities in data analytics, data integration, or hybrid roles that combine analytics and engineering.
 
 ---
 
-## **Professional Experience**  
-### 🏢 **Data Analyst**  
-**Assay Genie, Dublin, Ireland**  
-*(January 2024 – Present)*  
-- 📈 Managed and analyzed large datasets, providing actionable insights to support business decision-making.  
-- 📊 Developed and maintained Power BI dashboards, improving real-time data visualization and operational efficiency.  
-
-### 🛠️ **Data Integration Analyst**  
-**Tech Mahindra, Chennai, India**  
-*(April 2020 – June 2022)*  
-- 👨‍💻 **Client**: BASF, Germany  
-- ⚙️ Designed and implemented 50+ integration flows in SAP PO and CPI, enhancing order, sales, inventory, and tracking processes.  
-- 🗂️ Worked with SQL to perform data updates, execute bulk queries, and ensure integration data accuracy.  
-- 🛡️ Handled EDI processing issues by troubleshooting errors in data transformation during EDI to IDoc and IDoc to XML conversion in CPI and PO.  
-
-### 🌐 **Web Developer**  
-**Tech Mahindra, Chennai, India**  
-*(June 2018 – March 2020)*  
-- 👨‍💻 **Client**: Vodafone, UK  
-- 🖥️ Contributed to the front-end development of 3 applications using Angular, HTML, JavaScript, and CSS, enhancing user interfaces for better responsiveness.  
-- 💻 Assisted with back-end development using Java and MySQL to optimize data retrieval and improve application reliability.  
+## 🛠️ Tech Stack  
+**Languages:** Python, R, Java, JavaScript, SQL  
+**Databases:** MySQL, Oracle  
+**Data Science:** Statistical analysis, machine learning, data visualization  
+**Integration:** SAP PO, SAP CPI, EDI, XML, ETL  
+**Visualization Tools:** Power BI, Tableau, Looker Studio  
+**Web:** HTML, CSS, Angular  
+**Tools:** Git, Jupyter, VS Code, PyCharm
 
 ---
 
-## **Education**  
-🎓 **MSc in Data and Computational Science**  
-*University College Dublin, September 2022 – August 2023*  
-- 📊 GPA: 3.29 (2H1)  
-- 📖 Expanded knowledge and skills in data analysis, machine learning, and computational modeling.  
-- 🧑‍🔬 Actively participated in research projects, focusing on practical applications of data science methodologies.  
+## 💼 Experience Snapshot
 
-🎓 **Bachelor of Engineering in Mechatronics**  
-*SNS Institutions, India, August 2013 – April 2017*  
-- 📈 GPA: 8.3/10  
+### 🔹 **Data Analyst**  
+**Assay Genie, Dublin, Ireland** *(Jan 2024 – Apr 2024)*  
+- Built and maintained Power BI dashboards to monitor sales, customer behavior, and logistics performance  
+- Conducted in-depth analysis of e-commerce data, identifying trends and delivering actionable insights to improve business outcomes  
+- Streamlined reporting processes by developing automated solutions for recurring data tasks  
 
----
+### 🔹 **Data Integration Analyst**  
+**Tech Mahindra – Client: BASF, Germany** *(Apr 2020 – Jun 2022)*  
+- Designed and deployed over 50 SAP PO and CPI integration flows across modules including order processing, sales, and inventory  
+- Handled EDI transformations (EDI ↔️ IDoc/XML), ensuring seamless data flow and resolving integration issues  
+- Used SQL for bulk data updates, validations, and monitoring of integration logs  
+- Created reusable templates and automated alerts to improve reliability and maintainability of integration solutions  
 
-## **Skills**  
-💻 **Programming**: Python, R, Java  
-📊 **Data Science**: Statistical analysis, machine learning, data visualization  
-🔗 **SAP Technologies**: SAP PO (Process Orchestration), SAP CPI (Cloud Platform Integration)  
-🗄️ **Data Integration**: SQL, XML, ETL  
-🌐 **Web Development**: HTML, CSS, JavaScript, Angular  
-📊 **Tools**: Power BI, Tableau  
-
----
-
-## **Certifications**  
-- 🏅 **Google Data Analytics** | *October 2023*  
-- 🏅 **Data Visualization using Power BI** | *September 2023*  
+### 🔹 **Full Stack Developer**  
+**Tech Mahindra – Client: Vodafone, UK** *(Jun 2018 – Mar 2020)*  
+- Developed Angular-based web interfaces for internal tools used across finance and operations  
+- Built and maintained REST APIs using Java and MySQL for data management  
+- Improved system performance and responsiveness by optimizing front-end and back-end components  
+- Participated in agile sprints and code reviews, contributing to consistent delivery of features  
 
 ---
 
-## **Contact Information**  
-📍 **Location**: Dublin, Ireland  
-📧 **Email**: [vinothinibs09@gmail.com](mailto:vinothinibs09@gmail.com)  
-📱 **Phone**: [+353 899664915](tel:+353899664915)  
-💼 **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vinothini-balasubramani/)
+## 🎓 Education  
+
+**MSc in Data and Computational Science**  
+University College Dublin *(2022 – 2023)*  
+- GPA: 3.29 (2H1)  
+- Focused on machine learning, computational modeling, and advanced data analytics
+
+**BE in Mechatronics Engineering**  
+SNS Institutions, India *(2013 – 2017)*  
+- GPA: 8.3 / 10
+
+---
+
+## 📜 Certifications  
+- 📊 Google Data Analytics – *October 2023*  
+- 📈 Data Visualization using Power BI – *September 2023*
+
+---
+
+## 📊 GitHub Stats
+
+![Vinothini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinothiniBS&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinothiniBS&layout=compact&theme=default)
+
+---
+
+## 📫 Contact
+
+📍 Dublin, Ireland  
+📧 [vinothinibs09@gmail.com](mailto:vinothinibs09@gmail.com)  
+📱 [+353 899664915](tel:+353899664915)  
+💼 [LinkedIn](https://www.linkedin.com/in/vinothini-balasubramani/)
+
+---
+
+> “Let the data speak. My job is to make sure it says something meaningful.”

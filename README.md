@@ -45,6 +45,24 @@ Data Analyst with a strong background in analytics, SAP integrations, and develo
 
 ---
 
+## 🔥 Featured Projects
+
+### [📦 E-Commerce Sales Analysis](https://github.com/VinothiniBS/E-Commerce-Sales-Analysis)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Prophet](https://img.shields.io/badge/Facebook%20Prophet-02569B?style=for-the-badge)
+
+End-to-end e-commerce analysis using Python. Includes data cleaning, EDA, customer segmentation using RFM, and sales forecasting with Facebook Prophet. Visualizations highlight trends in top products, monthly sales, and country-wise performance.
+
+### [💉 COVID-19 UK Vaccination Impact Analysis](https://github.com/VinothiniBS/COVID19-UK-Vaccination-Impact)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-2E7CBF?style=for-the-badge)
+![caret](https://img.shields.io/badge/Caret-7A4CFE?style=for-the-badge)
+
+A comprehensive R-based study evaluating the impact of COVID-19 vaccination campaigns in the UK. Using multivariate linear regression, it explores relationships between vaccination, mobility, testing, weather patterns, and pandemic outcomes. The analysis is segmented into pre-vaccination and vaccination periods, offering detailed visuals and model comparisons.
+
+---
+
 ## 🎓 Education  
 
 **MSc in Data and Computational Science**  

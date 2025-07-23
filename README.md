@@ -64,13 +64,6 @@ SNS Institutions, India *(2013 – 2017)*
 
 ---
 
-## 📊 GitHub Stats
-
-![Vinothini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinothiniBS&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinothiniBS&layout=compact&theme=default)
-
----
-
 ## 📫 Contact
 
 📍 Dublin, Ireland  

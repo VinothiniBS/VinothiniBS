@@ -50,7 +50,7 @@ Data Analyst with a strong background in analytics, SAP integrations, and develo
 ### [📦 E-Commerce Sales Analysis](https://github.com/VinothiniBS/E-Commerce-Sales-Analysis)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Prophet](https://img.shields.io/badge/Facebook%20Prophet-02569B?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 End-to-end e-commerce analysis using Python. Includes data cleaning, EDA, customer segmentation using RFM, and sales forecasting with Facebook Prophet. Visualizations highlight trends in top products, monthly sales, and country-wise performance.
 

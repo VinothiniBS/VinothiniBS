@@ -46,6 +46,16 @@ Data Analyst with a strong background in analytics, SAP integrations, and develo
 
 ## 🔥 Featured Projects
 
+### [🌦️ Weather Insights](https://github.com/VinothiniBS/WeatherInsights)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-1F77B4?style=for-the-badge)
+![ggplot2](https://img.shields.io/badge/ggplot2-2E7CBF?style=for-the-badge)
+![dplyr](https://img.shields.io/badge/dplyr-2962FF?style=for-the-badge)
+
+An interactive R Shiny application that visualizes and analyzes weather data across three Irish stations — Belmullet, Dublin Airport, and Malin Head. The app allows users to explore weather patterns by location, year, and season. Features include line plots for yearly trends and dynamic seasonal boxplots for variables such as rainfall, temperature, wind speed, and sunshine duration.
+
+🔗 [Live App](https://ejdump-vinothini-balasubramani.shinyapps.io/weatherinsights/)
+
 ### [📦 E-Commerce Sales Analysis](https://github.com/VinothiniBS/E-Commerce-Sales-Analysis)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)

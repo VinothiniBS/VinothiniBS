@@ -100,4 +100,10 @@ SNS Institutions, India *(2013 – 2017)*
 
 ---
 
+## 🔗 Portfolio
+
+[Visit Here](https://vinothinibs.github.io/portfolio)
+
+---
+
 > “Let the data speak. My job is to make sure it says something meaningful.”

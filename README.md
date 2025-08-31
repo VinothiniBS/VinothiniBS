@@ -54,7 +54,7 @@ Data Analyst with a strong background in analytics, SAP integrations, and develo
 
 An interactive R Shiny application that visualizes and analyzes weather data across three Irish stations — Belmullet, Dublin Airport, and Malin Head. The app allows users to explore weather patterns by location, year, and season. Features include line plots for yearly trends and dynamic seasonal boxplots for variables such as rainfall, temperature, wind speed, and sunshine duration.
 
-🔗 [Live App](https://ejdump-vinothini-balasubramani.shinyapps.io/weatherinsights/)
+🔗 [App Link](https://ejdump-vinothini-balasubramani.shinyapps.io/weatherinsights/)
 
 ### [📦 E-Commerce Sales Analysis](https://github.com/VinothiniBS/E-Commerce-Sales-Analysis)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

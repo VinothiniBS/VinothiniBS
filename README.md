@@ -86,6 +86,7 @@ SNS Institutions, India *(2013 – 2017)*
 ---
 
 ## 📜 Certifications  
+- 🗄️ MySQL for Data Analytics and Business Intelligence - *December 2025*
 - 📊 Google Data Analytics – *October 2023*  
 - 📈 Data Visualization using Power BI – *September 2023*
 

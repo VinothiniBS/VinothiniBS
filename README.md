@@ -1,6 +1,6 @@
 💼 **Data Analyst** | 🔗 **Data Integration Specialist** | 🌍 **Dublin, Ireland**
 
-🎯 5+ years of experience transforming raw data into business insights and automation through analytics, integration, and dashboarding.
+🎯 6+ years of experience transforming raw data into business insights and automation through analytics, integration, and dashboarding.
 
 ---
 

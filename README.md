@@ -4,18 +4,19 @@
 
 ---
 
-## 🧠 Summary  
-Data Analyst with a strong background in analytics, SAP integrations, and development. Skilled in Python, SQL, and Power BI, I thrive on solving complex problems and delivering clean, data-driven solutions. Currently open to opportunities in data analytics, data integration, or hybrid roles that combine analytics and engineering.
+## 🧠 Summary
+Data Analyst with a proven track record in analytics, SAP integrations, and full-stack development. I work with Python, SQL, and Power BI to build pipelines, automate workflows, and turn complex data into decisions that matter. Whether it's a dashboard, a forecasting model, or an end-to-end ETL pipeline — I focus on delivering clean, scalable solutions with real business impact. Open to data analytics, data integration, or hybrid analytics-engineering roles.
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 **Languages:** Python, R, Java, JavaScript, SQL  
-**Databases:** MySQL, Oracle  
-**Data Science:** Statistical analysis, machine learning, data visualization  
-**Integration:** SAP PO, SAP CPI, EDI, XML, ETL  
+**Databases:** MySQL, Oracle, BigQuery  
+**Cloud & Engineering:** Google Cloud Platform (GCP), ETL Pipelines, dbt, Airflow, REST API Integration  
+**Data Science:** Statistical Analysis, Machine Learning, Forecasting, Data Visualization  
+**Integration:** SAP PO, SAP CPI, EDI, XML  
 **Visualization Tools:** Power BI, Tableau, Looker Studio  
-**Web:** HTML, CSS, Angular  
+**Web & Apps:** Flask, Angular, HTML, CSS, Google Apps Script  
 **Tools:** Git, Jupyter, VS Code, PyCharm
 
 ---
@@ -79,7 +80,7 @@ A comprehensive R-based study evaluating the impact of COVID-19 vaccination camp
 
 ---
 
-## 🎓 Education  
+## 🎓 Education
 
 **MSc in Data and Computational Science**  
 University College Dublin *(2022 – 2023)*  
@@ -92,10 +93,11 @@ SNS Institutions, India *(2013 – 2017)*
 
 ---
 
-## 📜 Certifications  
-- 🗄️ MySQL for Data Analytics and Business Intelligence - *December 2025*
-- 📊 Google Data Analytics – *October 2023*  
-- 📈 Data Visualization using Power BI – *September 2023*
+## 📜 Certifications
+- 📊 Career Essentials in Data Analytics – Microsoft & LinkedIn | *December 2025*
+- 🗄️ MySQL for Data Analytics and Business Intelligence – Udemy | *December 2025*
+- 📊 Google Data Analytics – Google / Coursera | *October 2023*
+- 📈 Data Visualization using Power BI | *September 2023*
 
 ---
 

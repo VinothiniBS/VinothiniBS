@@ -22,25 +22,32 @@ Data Analyst with a strong background in analytics, SAP integrations, and develo
 
 ## 💼 Experience Snapshot
 
-### 🔹 **Data Analyst**  
-**Assay Genie, Dublin, Ireland** *(Jan 2024 – Apr 2024)*  
-- Built and maintained Power BI dashboards to monitor sales, customer behavior, and logistics performance  
-- Conducted in-depth analysis of e-commerce data, identifying trends and delivering actionable insights to improve business outcomes  
-- Streamlined reporting processes by developing automated solutions for recurring data tasks  
+### 🔹 Analytics and Automation Engineer
+**Assay Genie, Remote** *(Jan 2026 – Present)*
+- Architecting end-to-end Python data pipelines processing 10,000+ product records, eliminating recurring manual tasks
+- Built automated documentation systems generating product datasheets for 100+ products/week, cutting effort by 70%
+- Designed and deployed a Quality Control application on GCP and BigQuery automating data validation, anomaly detection, and real-time monitoring
+- Optimised data workflows cutting manual intervention by 50%+ and improving cross-system data consistency
 
-### 🔹 **Data Integration Analyst**  
-**Tech Mahindra – Client: BASF, Germany** *(Apr 2020 – Jun 2022)*  
-- Designed and deployed over 50 SAP PO and CPI integration flows across modules including order processing, sales, and inventory  
-- Handled EDI transformations (EDI ↔️ IDoc/XML), ensuring seamless data flow and resolving integration issues  
-- Used SQL for bulk data updates, validations, and monitoring of integration logs  
-- Created reusable templates and automated alerts to improve reliability and maintainability of integration solutions  
+### 🔹 Data Analyst
+**Assay Genie, Dublin, Ireland** *(Jan 2024 – Mar 2025)*
+- Designed Looker Studio and Power BI dashboards for supply chain and sales analytics, enabling decisions 15% faster
+- Automated leadership reporting via Cin7 API in Python, saving 8+ hours/month
+- Built Python forecasting models improving inventory accuracy and reducing overstock by 25%
+- Automated data pipelines via Google Apps Script, reducing manual work by 60%
+- Developed a Flask-based datasheet generation app, cutting documentation workload by 70%
 
-### 🔹 **Full Stack Developer**  
-**Tech Mahindra – Client: Vodafone, UK** *(Jun 2018 – Mar 2020)*  
-- Developed Angular-based web interfaces for internal tools used across finance and operations  
-- Built and maintained REST APIs using Java and MySQL for data management  
-- Improved system performance and responsiveness by optimizing front-end and back-end components  
-- Participated in agile sprints and code reviews, contributing to consistent delivery of features  
+### 🔹 Data Integration Analyst
+**Tech Mahindra – Client: BASF, Germany** *(Apr 2020 – Jun 2022)*
+- Designed 50+ SAP PO/CPI integration flows across order processing, sales, and inventory modules
+- Handled EDI transformations (EDI ↔ IDoc/XML) and resolved integration issues, reducing incident volume by 35%
+- Used SQL for bulk data updates, validations, and integration log monitoring
+
+### 🔹 Full Stack Developer
+**Tech Mahindra – Client: Vodafone, UK** *(Jun 2018 – Mar 2020)*
+- Built Angular-based web interfaces for internal finance and operations tools
+- Developed REST APIs in Java and MySQL, improving query performance by 20%
+- Maintained 98% deployment success rate across agile feature releases
 
 ---
 
@@ -107,4 +114,4 @@ SNS Institutions, India *(2013 – 2017)*
 
 ---
 
-> “Let the data speak. My job is to make sure it says something meaningful.”
+> "Let the data speak. My job is to make sure it says something meaningful."

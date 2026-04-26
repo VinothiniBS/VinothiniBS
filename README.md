@@ -5,7 +5,7 @@
 ---
 
 ## 🧠 Summary
-Data Analyst with a proven track record in analytics, SAP integrations, and full-stack development. I work with Python, SQL, and Power BI to build pipelines, automate workflows, and turn complex data into decisions that matter. Whether it's a dashboard, a forecasting model, or an end-to-end ETL pipeline — I focus on delivering clean, scalable solutions with real business impact. Open to data analytics, data integration, or hybrid analytics-engineering roles.
+Data Analyst with a proven track record in analytics, SAP integrations, and full-stack development. I work with Python, SQL, and Power BI to build pipelines, automate workflows, and turn complex data into decisions that matter. Whether it's a dashboard, a forecasting model, or an end-to-end ETL pipeline, I focus on delivering clean, scalable solutions with real business impact. Open to data analytics, data integration, or hybrid analytics-engineering roles.
 
 ---
 
@@ -24,14 +24,14 @@ Data Analyst with a proven track record in analytics, SAP integrations, and full
 ## 💼 Experience Snapshot
 
 ### 🔹 Analytics and Automation Engineer
-**Assay Genie, Remote** *(Jan 2026 – Present)*
+**Assay Genie, Remote** *(Jan 2026 - Present)*
 - Architecting end-to-end Python data pipelines processing 10,000+ product records, eliminating recurring manual tasks
 - Built automated documentation systems generating product datasheets for 100+ products/week, cutting effort by 70%
 - Designed and deployed a Quality Control application on GCP and BigQuery automating data validation, anomaly detection, and real-time monitoring
 - Optimised data workflows cutting manual intervention by 50%+ and improving cross-system data consistency
 
 ### 🔹 Data Analyst
-**Assay Genie, Dublin, Ireland** *(Jan 2024 – Mar 2025)*
+**Assay Genie, Dublin, Ireland** *(Jan 2024 - Mar 2025)*
 - Designed Looker Studio and Power BI dashboards for supply chain and sales analytics, enabling decisions 15% faster
 - Automated leadership reporting via Cin7 API in Python, saving 8+ hours/month
 - Built Python forecasting models improving inventory accuracy and reducing overstock by 25%
@@ -39,13 +39,13 @@ Data Analyst with a proven track record in analytics, SAP integrations, and full
 - Developed a Flask-based datasheet generation app, cutting documentation workload by 70%
 
 ### 🔹 Data Integration Analyst
-**Tech Mahindra – Client: BASF, Germany** *(Apr 2020 – Jun 2022)*
+**Tech Mahindra – Client: BASF, Germany** *(Apr 2020 - Jun 2022)*
 - Designed 50+ SAP PO/CPI integration flows across order processing, sales, and inventory modules
 - Handled EDI transformations (EDI ↔ IDoc/XML) and resolved integration issues, reducing incident volume by 35%
 - Used SQL for bulk data updates, validations, and integration log monitoring
 
 ### 🔹 Full Stack Developer
-**Tech Mahindra – Client: Vodafone, UK** *(Jun 2018 – Mar 2020)*
+**Tech Mahindra – Client: Vodafone, UK** *(Jun 2018 - Mar 2020)*
 - Built Angular-based web interfaces for internal finance and operations tools
 - Developed REST APIs in Java and MySQL, improving query performance by 20%
 - Maintained 98% deployment success rate across agile feature releases
@@ -83,20 +83,20 @@ A comprehensive R-based study evaluating the impact of COVID-19 vaccination camp
 ## 🎓 Education
 
 **MSc in Data and Computational Science**  
-University College Dublin *(2022 – 2023)*  
+University College Dublin *(2022 - 2023)*  
 - GPA: 3.29 (2H1)  
 - Focused on machine learning, computational modeling, and advanced data analytics
 
 **BE in Mechatronics Engineering**  
-SNS Institutions, India *(2013 – 2017)*  
+SNS Institutions, India *(2013 - 2017)*  
 - GPA: 8.3 / 10
 
 ---
 
 ## 📜 Certifications
 - 📊 Career Essentials in Data Analytics – Microsoft & LinkedIn | *December 2025*
-- 🗄️ MySQL for Data Analytics and Business Intelligence – Udemy | *December 2025*
-- 📊 Google Data Analytics – Google / Coursera | *October 2023*
+- 🗄️ MySQL for Data Analytics and Business Intelligence - Udemy | *December 2025*
+- 📊 Google Data Analytics - Google / Coursera | *October 2023*
 - 📈 Data Visualization using Power BI | *September 2023*
 
 ---
@@ -105,7 +105,6 @@ SNS Institutions, India *(2013 – 2017)*
 
 📍 Dublin, Ireland  
 📧 [vinothinibs09@gmail.com](mailto:vinothinibs09@gmail.com)  
-📱 [+353 899664915](tel:+353899664915)  
 💼 [LinkedIn](https://www.linkedin.com/in/vinothini-balasubramani/)
 
 ---

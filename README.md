@@ -54,7 +54,7 @@ Data Analyst with a proven track record in analytics, SAP integrations, and full
 
 ## 🔥 Featured Projects
 
-### [🌦️ Weather Insights](https://github.com/VinothiniBS/WeatherInsights)  
+### [🌦️ Weather Insights](https://github.com/VinothiniBS/weather_insights_r_shiny_app)  
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Shiny](https://img.shields.io/badge/Shiny-1F77B4?style=for-the-badge)
 ![ggplot2](https://img.shields.io/badge/ggplot2-2E7CBF?style=for-the-badge)
@@ -64,14 +64,14 @@ An interactive R Shiny application that visualizes and analyzes weather data acr
 
 🔗 [App Link](https://ejdump-vinothini-balasubramani.shinyapps.io/weatherinsights/)
 
-### [📦 E-Commerce Sales Analysis](https://github.com/VinothiniBS/E-Commerce-Sales-Analysis)  
+### [📦 E-Commerce Sales Analysis](https://github.com/VinothiniBS/ecommerce_sales_analysis)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Prophet](https://img.shields.io/badge/Facebook%20Prophet-02569B?style=for-the-badge)
 
 End-to-end e-commerce analysis using Python. Includes data cleaning, EDA, customer segmentation using RFM, and sales forecasting with Facebook Prophet. Visualizations highlight trends in top products, monthly sales, and country-wise performance.
 
-### [💉 COVID-19 UK Vaccination Impact Analysis](https://github.com/VinothiniBS/COVID19-UK-Vaccination-Impact)  
+### [💉 COVID-19 UK Vaccination Impact Analysis](https://github.com/VinothiniBS/unraveling_covid_dynamics)  
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-2E7CBF?style=for-the-badge)
 ![caret](https://img.shields.io/badge/Caret-7A4CFE?style=for-the-badge)

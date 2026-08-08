@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vinothini 👋</h1>
-<p align="center"><b>Data & Automation Analyst</b> · Chennai, India (returning to Dublin)</p>
+<p align="center"><b>Data & Automation Analyst</p>
 <p align="center">I turn messy data into systems people actually trust.</p>
 
 <p align="center">

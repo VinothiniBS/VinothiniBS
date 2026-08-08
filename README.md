@@ -12,7 +12,7 @@
 
 ### About
 
-Six years across analytics engineering, SAP integration, and full-stack development. I build the pipelines, dashboards, and automation that logistics, sales, and leadership teams rely on daily — currently at Assay Genie, working across Python, GCP/BigQuery, and Power BI. Open to Data Analyst and Analytics Engineering roles.
+Six years across analytics engineering, SAP integration, and full-stack development. I build the pipelines, dashboards, and automation that logistics, sales, and leadership teams rely on daily - currently at Assay Genie, working across Python, GCP/BigQuery, and Power BI. Open to Data Analyst and Analytics Engineering roles.
 
 ### Toolkit
 
@@ -28,16 +28,16 @@ Six years across analytics engineering, SAP integration, and full-stack developm
 
 ### Featured Work
 
-**[🚲 Dublin Bikes Data Pipeline](https://github.com/VinothiniBS/dublin-bikes-pipeline)** — Live station data ingested every 15 minutes, dbt-tested, orchestrated with Airflow in Docker. [Live dashboard →](https://datastudio.google.com/s/jqqFSljMhps)
+**[🚲 Dublin Bikes Data Pipeline](https://github.com/VinothiniBS/dublin-bikes-pipeline)** - Live station data ingested every 15 minutes, dbt-tested, orchestrated with Airflow in Docker. [Live dashboard →](https://datastudio.google.com/s/jqqFSljMhps)
 
-**[🌦️ Irish Weather Insights](https://github.com/VinothiniBS/weather_insights_r_shiny_app)** — Interactive R Shiny app comparing climate trends across three Irish stations. [Open app →](https://ejdump-vinothini-balasubramani.shinyapps.io/weatherinsights/)
+**[🌦️ Irish Weather Insights](https://github.com/VinothiniBS/weather_insights_r_shiny_app)** - Interactive R Shiny app comparing climate trends across three Irish stations. [Open app →](https://ejdump-vinothini-balasubramani.shinyapps.io/weatherinsights/)
 
-**[📦 E-Commerce Sales Analysis](https://github.com/VinothiniBS/ecommerce_sales_analysis)** — RFM segmentation and Prophet forecasting on transaction data.
+**[📦 E-Commerce Sales Analysis](https://github.com/VinothiniBS/ecommerce_sales_analysis)** - RFM segmentation and Prophet forecasting on transaction data.
 
-**[💉 COVID-19 Vaccination Impact](https://github.com/VinothiniBS/unraveling_covid_dynamics)** — Regression and anomaly detection comparing pre/post-vaccination trends.
+**[💉 COVID-19 Vaccination Impact](https://github.com/VinothiniBS/unraveling_covid_dynamics)** - Regression and anomaly detection comparing pre/post-vaccination trends.
 
 More detail on all four (techniques, outcomes, dashboards) is on my **[portfolio](https://vinothinibs.github.io/portfolio)**.
 
 ---
 
-<p align="center"><i>Full experience history, education, and certifications live on my <a href="https://vinothinibs.github.io/portfolio">portfolio</a> and résumé — keeping this page to the highlights.</i></p>
+<p align="center"><i>Full experience history, education, and certifications live on my <a href="https://vinothinibs.github.io/portfolio">portfolio</a> and resume — keeping this page to the highlights.</i></p>

@@ -30,7 +30,7 @@ Six years across analytics engineering, SAP integration, and full-stack developm
 
 ### Featured Work
 
-**[🔍 Fraud & Financial Crime MI Lakehouse](https://github.com/VinothiniBS/fraud-mi-lakehouse)** - Fraud Management Information (MI) on 6.3M transactions: Databricks lakehouse (PySpark, Delta Lake), SQL control testing and a three-page Power BI report. The existing rule caught 0.2% of fraud; a combined rule catches 24% at 55% precision.
+**[🔍 Fraud & Financial Crime MI Lakehouse](https://github.com/VinothiniBS/fraud-mi-lakehouse)** - Fraud Management Information (MI) on 6.3M transactions: Databricks lakehouse (PySpark, Delta Lake), SQL control testing and a three-page Power BI report.
 
 **[🚲 Dublin Bikes Data Pipeline](https://github.com/VinothiniBS/dublin-bikes-pipeline)** - Live station data ingested every 15 minutes, dbt-tested, orchestrated with Airflow in Docker. [Live dashboard →](https://datastudio.google.com/s/jqqFSljMhps)
 
